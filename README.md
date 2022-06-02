@@ -1,4 +1,5 @@
 # **En esta practica aprenderas a como ejecutar [Python](https://www.python.org/) desde la nube de [Azure](https://portal.azure.com/signin/index/)**
+![Logo de Python](imagenes\azure.png)   ![Logo de Python](imagenes/pythonlogo2.png)
 
 ## **Requisitos**
 - Tener una suscripción en Azure
